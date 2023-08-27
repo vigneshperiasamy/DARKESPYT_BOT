@@ -1,6 +1,5 @@
-# DARKESPYT_BOT
-# tgbot❤
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Rose's+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
+# DARKESPYT_BOT❤
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+DARKESPYT_BOT's Page!)
 </p>
 <center><img src="https://telegra.ph/file/6374be06fca3f8e59e6a2.jpg"></center>
 <br>
@@ -12,17 +11,7 @@
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [കൊച്ചുമുതലാളി](https://t.me/kochubot).
-
-Kochu and I are moderating a [support group](https://t.me/Keralabots), where you can ask for help setting up your
-bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
-I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
-
-Join the [news channel](https://t.me/Mo_Tech_YT) if you just want to stay in the loop about new features or
-announcements.
-
-Alternatively, [find me on telegram](https://t.me/jithumon)! (Keep all support questions in the support chat, where more people can help you.)
-
+Can be found on telegram as(https://t.me/DARKESPYT).
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Rose-Bot)<br>
 There is also a [tutorial video](https://youtu.be/wKL90i3cjPw) if you want any help on creating heroku clone.
