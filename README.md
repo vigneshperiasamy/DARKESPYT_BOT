@@ -4,7 +4,7 @@
 <center><img src="https://telegra.ph/file/6374be06fca3f8e59e6a2.jpg"></center>
 <br>
 <center><a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+    <img src="https://www.askpython.com/wp-content/uploads/2022/09/Python-Telegram-Bot-1024x512.jpg.webp">
   </a></center><br>
 <br>
 
