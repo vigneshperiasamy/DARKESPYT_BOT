@@ -1,6 +1,5 @@
 # DARKESPYT_BOT❤
-<p>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+DARKESPYT_BOTs+Page!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+DARKESPYT_BOT's+Page!;)
 </p>
 <center><img src="https://telegra.ph/file/6374be06fca3f8e59e6a2.jpg"></center>
 <br>
